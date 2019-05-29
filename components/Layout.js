@@ -12,7 +12,17 @@ export const Layout = props => {
         />
       </Head>
       <Navbar />
-      {props.children}
+      <div className="container">{props.children}</div>
+      <style jsx>
+        {`
+          .container {
+            display: flex;
+            flex-direction: rows;
+            max-width: 960px;
+            margin: auto;
+          }
+        `}
+      </style>
     </div>
   );
 };

@@ -1,6 +1,6 @@
 import { Layout } from "../components/layout";
 
-const about = () => (
+const about: React.FC = () => (
   <Layout active="about">
     <div>
       <h1>About BitzPrice</h1>
