@@ -1,0 +1,20 @@
+{
+  "name": "next-js-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t03jam8/next-js-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t03jam8/next-js-crash-course/issues"
+  },
+  "homepage": "https://github.com/t03jam8/next-js-crash-course#readme"
+}
